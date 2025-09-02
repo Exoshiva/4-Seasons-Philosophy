@@ -7,7 +7,8 @@
 
 ### Einleitung
 
-Dieses Repository dokumentiert die "4-Jahreszeiten-Philosophie", ein agiles, zyklisches Entwicklungsmodell, das für kreative und forschungsintensive Arbeit konzipiert wurde. Es dient als Gegenentwurf zu starren, linearen Prozessen und stellt Nachhaltigkeit, Reflexion und echte Innovation in den Mittelpunkt.
+Dieses Repository dokumentiert die "4-Jahreszeiten-Philosophie", ein agiles, zyklisches Entwicklungsmodell, das für kreative und forschungsintensive Arbeit konzipiert wurde. 
+Es dient als Gegenentwurf zu starren, linearen Prozessen und stellt Nachhaltigkeit, Reflexion und echte Innovation in den Mittelpunkt.
 
 ---
 
@@ -33,5 +34,6 @@ Diese Methodik fördert Innovation.
 ---
 
 ### Lizenz
+
 
 Dieses Werk ist unter der [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/) lizenziert. Sie dürfen es frei teilen und anpassen, auch für kommerzielle Zwecke, solange Sie den Urheber nennen.
