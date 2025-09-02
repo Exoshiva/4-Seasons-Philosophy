@@ -1,5 +1,7 @@
 # Die 4-Jahreszeiten-Philosophie
 
+Ein agiles Entwicklungsmodell von **Lars Patzenbein (Exoshiva)**
+
 ![Status: Evergreen](https://img.shields.io/badge/status-evergreen-brightgreen.svg)
 ![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
 
@@ -35,5 +37,7 @@ Diese Methodik fördert Innovation.
 
 ### Lizenz
 
+Copyright (c) 2025, Lars Patzenbein
 
 Dieses Werk ist unter der [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/) lizenziert. Sie dürfen es frei teilen und anpassen, auch für kommerzielle Zwecke, solange Sie den Urheber nennen.
+
